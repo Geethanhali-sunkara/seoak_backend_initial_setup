@@ -1,8 +1,4 @@
-let users = [
-    { id: 1, name: 'Ram', age: 25 },
-    { id: 2, name: 'Rohit', age: 26 },
-    { id: 3, name: 'Sita', age: 28 },
-]
+const  users = require("../data")
 
 const getData = async function (req, res) {
     try {

@@ -79,6 +79,9 @@ Github
 5. git checkout -b initial_setup -> To create a new branch
 6. git branch -a -> To see all branches
 
+7. git clone https://github.com/debobratade/seoak_backend_initial_setup.git
+8. git branch -a
+9. git checkout initial_setup -> To present any specific from the same repo
 
 Local & Remote
 
